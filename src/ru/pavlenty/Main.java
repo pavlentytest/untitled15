@@ -3,7 +3,7 @@ package ru.pavlenty;
 public class Main {
 
     public static void main(String[] args) {
-        // Empty
-        // smth else
+       int a = 100;
+       int b = 200;
     }
 }
